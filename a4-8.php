@@ -36,7 +36,7 @@ echo '
 8) "-=" should be "=" on line 10
 9) "Num2" should be "num2" (not capitalized) on line 10
 10) declared error reporting level to show only major problems on line 4     
-11) adjusted line numbers in previus troubleshooting comments to correct for displacement
+11) adjusted line numbers in previous troubleshooting comments to correct for displacement
     
     
     
